@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">BKZalo</string>
+    <string name="welcome_back">Welcome_Back</string>
+    <string name="login_to_continue">login_to_continue</string>
+    <string name="email">Email</string>
+    <string name="password">password</string>
+    <string name="sign_in">Sign_In</string>
+    <string name="create_new_account">create_new_account</string>
+    <string name="add_image">add_image</string>
+    <string name="name">name</string>
+    <string name="emailSignUp">Email</string>
+    <string name="passwordSignUp">password</string>
+    <string name="confirm_password_SignUp">Confirm password</string>
+    <string name="sign_up_SignUp">Sign Up</string>
+    <string name="sign_in_SignUp">Sign In</string>
+    <string name="create_new_account_SignUp">Create new account</string>
+    <string name="create_new_account_SignIn">Create new account</string>
+</resources>
